@@ -1,0 +1,53 @@
+.menu > ul{
+    position: relative;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    float: left;
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 1400px;
+    height: 55px;
+    background-color: rgb(240, 238, 238);
+    border-radius: 25px;
+}
+
+.menu > ul > li{
+    margin-left: 135px;
+    min-width: 30px;
+    padding: 10px;
+    float: left;
+    list-style: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.menu > ul > li > a{
+    text-decoration: none;
+    color: #527bb1;
+}
+
+.menu > ul > li > a:hover{
+    color: #2061b6;
+}
+
+#header{
+   color: #2f4d8f;
+   font-size: 30px;
+   font-family: cursive;
+   margin-left: 41%;
+}
+#button-1{
+    color: #4371d4;
+    font-size: 16px;
+    background-color: rgb(240, 238, 238);
+    border-radius: none!important;
+    border-style: none!important;
+    margin-left: 850px;
+    margin-top: 22px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#button-1:hover{
+    color: #113fd4;
+    font-size: 17px;
+}
