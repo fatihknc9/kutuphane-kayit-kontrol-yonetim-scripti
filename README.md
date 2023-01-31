@@ -11,6 +11,3 @@ LIBRARY REGISTRATION, CONTROL, ADMINISTRATION SCRYPT MADE USING HTML - CSS - PHP
 
 Library registration & management script, library and library book registration, control and so on. In order to use options such as thebyfatih made by the users need.
 I do not take any responsibility for the use of, modification or malicious use of this software!
-
-
---remfile
